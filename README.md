@@ -8,4 +8,4 @@
 
 <h3>Links:</h3>
 
-<a href="https://vsldev.glitch.me">Personal Site</a>
+<a href="https://vsldev.tk/">Personal Site</a>
