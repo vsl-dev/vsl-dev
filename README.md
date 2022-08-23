@@ -1,4 +1,5 @@
-<h2>Hi i am Vüsal and i am dreaming become a profesional web developer!</h2>
+<h2>Hi i am Vüsal!</h2>
+<h3>I am a student who likes to code websites, bots and other things</h3>
 
 ### Coding Languanges
 
