@@ -19,6 +19,6 @@
 [![visits](https://komarev.com/ghpvc/?username=vsl-dev)](https://vsldev.tk/)
 
 <h3>Links:</h3>
-<center><a target="_blank" href="https://www.buymeacoffee.com/vsldev"><img class="coffe" style="transition: 0.5s; margin: 10px 0 10px 0;" src="https://vslapi.cf/assets/cofee.png"/></a>
+<a target="_blank" href="https://www.buymeacoffee.com/vsldev"><img class="coffe" style="transition: 0.5s; margin: 10px 0 10px 0;" src="https://cdn.vsldev.tk/images/3MvZCONS1bIFdncNQ03y.png"/></a>
 
 <a href="https://vsldev.tk/">Personal Site</a>
