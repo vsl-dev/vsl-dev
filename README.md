@@ -1,7 +1,7 @@
 <h2>Hi i am Vüsal!</h2>
 <h3>I am a student who likes to code websites, bots and other things</h3>
 
-### Coding Languanges
+### Technologies I use
 
 ![CSS3](https://img.shields.io/badge/Node.js-%23323330.svg?style=for-the-badge&logo=node.js&logoColor=green)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
